@@ -1,6 +1,6 @@
 {
   "name": "react-native-drag",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A wrapper makes components draggable.",
   "main": "index.js",
   "dependencies": {
