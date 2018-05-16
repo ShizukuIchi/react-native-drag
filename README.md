@@ -69,6 +69,6 @@ class Demo extends React.Component {
 
 Codes in `example/Demo.js`
 
-![hi](demo/demo.gif)
+![demo](demo/demo.gif)
 
 
